@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @makeitbreaux
-- 👀 I’m interested in Python, SQL, Backend Development
-- 🌱 I’m currently enrolled in Springboard's Software Engineering Career Track, graduating in February of 2022
-- 💞️ I’m looking to collaborate with a team on a simple project, to gain experience working on a team with other developers
+- 👀 I’m skilled in full-stack development with a special interest in back-end development.
+- 🌱 I’m a graduate of Springboard's Software Engineering Career Track.
+- 💞️ I’m looking to join a team that I can grow and create some amazing things with!
 - 📫 How to reach me makeitbreaux@gmail.com
 
 <!---
